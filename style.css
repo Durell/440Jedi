@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(11, 21, 53);
+}
+
+img {
+    box-shadow: 0px 1px 80px 20px rgba(236, 208, 4, .85);
+    margin-top: 20px;
+}
